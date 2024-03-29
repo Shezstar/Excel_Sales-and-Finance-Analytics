@@ -86,7 +86,7 @@ Facilitates compliance with financial regulations and reporting standards.
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **1.** Create a _[customer performance report](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/Customer%20performance.pdf)_
 
 <h3>Key Insights</h3>
 <ol>
