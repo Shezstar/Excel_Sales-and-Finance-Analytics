@@ -74,9 +74,11 @@ Facilitates compliance with financial regulations and reporting standards.
   <b><p>Manufacturing cost + Freight cost + Other cost = COGS</p></b>
 </li>
 <li><b>Gross Margin</b>: Gross margin is the difference between net sales and the cost of goods sold (COGS). 
-  It's often expressed as a percentage of net sales and indicates how efficiently a company uses labor and supplies in the production process.</li>
+  It's often expressed as a <b>percentage of net sales</b> which is <b>Gross Margin%</b> and indicates how efficiently a company uses labor and supplies in the production process.</li>
 <li><b>Target Sales</b>: Target sales refer to the specific goal or benchmark for sales revenue that a company aims to achieve within a certain period, often set for a fiscal quarter or year. These targets are based on various factors, including past performance, market research, industry trends, and the company's growth objectives.</li>
 <li><b>Actual Sales</b>: Actual sales are the real revenue that a company has generated from its operations over a specific period. This figure represents the total amount of product or services sold, reflecting the company's actual performance in the market</li>
+<li><b>P&L(profit and loss) statement</b> is a financial report that provides an overview of a company's financial performance over a period of time, typically a month , quarter or year. P &L statements include several critical metrics, such as Net Sales, Cost of Goods Sold(COGS), Gross Margin,Gross Margin%, etc
+.These metrics evaluate a company's financial performance, profitablity and pricing tactics.</li>
 </ol>
 
 
@@ -138,16 +140,81 @@ Facilitates compliance with financial regulations and reporting standards.
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_
+
+<h3>Financial Performance Insights: Fiscal Years, Quarters, and Months</h3>
+<p>Comparing the financial performance of Atliq Hardware over the fiscal years 2019, 2020, and 2021 offers insightful revelations into the company's strategic growth, market adaptation, and the influence of seasonal dynamics, particularly in the Nov-Dec period of Q2 where peak season lies like New Year and Christmas sales, on its operational success.</p>
+
+<h4>Overview of Yearly Progression:</h4>
+
+<b>FY 2019:</b>
+<ul>
+<li><b>Foundation Year</b>: Total net sales stood at $87.5M. Q2 showed promising figures, especially with Nov and Dec sales demonstrating the beginning of a seasonal uptrend.</li>
+<li><b>Gross Margin Stability</b>: Gross margins were relatively high, averaging around 41.4%, indicating effective cost management and a strong profit ratio in the foundational year.</li></ul>
+
+<b>FY 2020:</b>
+<ul>
+<li><b>Significant Growth</b>: A jump in total net sales to $196.7M highlighted a year of substantial expansion. The Nov-Dec period again showcased a spike, with sales reaching $28.7M and $29.9M, respectively, underscoring the impact of seasonal demand.</li>
+<li><b>Cost Management</b>: Despite increased sales, gross margin percentages showed a slight dip to an average of 37.3%, reflecting the cost implications of scaling operations.</li></ul>
+
+<b>FY 2021:</b>
+<ul>
+<li><b>Unprecedented Sales</b>: The company hit a record with $598.9M in net sales, with Q2 (Nov-Dec) again marking the zenith at $74.3M and $78.1M. This period's sales accentuated the critical role of the holiday season in driving revenue.</li>
+<li><b>Gross Margin Consistency</b>: Gross margins were maintained at an average of 36.4%, demonstrating adeptness in balancing cost pressures against aggressive market capture strategies.</li>
+</ul>
+
+<h4>Strategic Insights:</h4>
+<ul>
+<li><b>Seasonal Influence:</b> Across the three years, the Nov-Dec period consistently registers higher sales figures, directly correlating with holiday shopping trends. This seasonal surge is a testament to Atliq Hardware's strategic marketing, inventory readiness, and promotional activities aimed at maximizing sales during these peak months.</li>
+
+<li><b>Growth and Market Adaptation:</b> From FY 2019 to FY 2021, Atliq Hardware demonstrated remarkable agility in scaling operations and capturing market share. The transition from foundational stability in FY 2019 to explosive growth by FY 2021, especially during the holiday seasons, highlights the company's effective strategic planning, market adaptation, and operational scalability.</li>
+</ul>
+
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+<div>
+  <h4>Insights</h4> 
+<ol>
+  <li><b>Highest Net Sales:</b></li>
+  <ul>
+<li>India leads with the highest net sales of approximately 241.9 million USD.</li>
+<li>USA follows closely behind with net sales of 131.2 million USD.</li></ul>
+<li><b>Lowest Net Sales:</b></li>
+<ul>
+<li>Sweden has the lowest net sales of 2.0 million USD.</li></ul>
+<li><b>Highest COGS (Cost of Goods Sold):</b></li><ul>
+<li>India also has the highest COGS, reflecting its substantial manufacturing activity, amounting to 161.2 million USD.</li> </ul>
+<li><b>Lowest COGS:</b></li>
+  <ul>
+<li>Sweden, with its relatively lower net sales, also has the lowest COGS at 0.8 million USD.</li></ul>
+<li><b>Highest Gross Margin:</b></li>
+<ul><li>India achieves the highest gross margin of 80.7 million USD, owing to its significant net sales and relatively high gross margin percentage of approximately 33.37%. </li></ul>
+<li><b>Lowest Gross Margin:</b></li>
+<ul><li>Sweden has the lowest gross margin of 0.8 million USD, primarily due to its modest net sales and low gross margin percentage of approximately 40.00%.</li></ul>
+<li><b>Highest Gross Margin % (GM%)</b>:</li><ul>
+<li>New Zealand stands out with the highest gross margin percentage of approximately 44.78%, indicating efficient cost management relative to net sales.</li></ul>
+<li><b>Lowest Gross Margin % (GM%)</b>:</li>
+<ul><li>Austria has the lowest gross margin percentage of 30.00%, suggesting potential areas for improving cost efficiency and pricing strategies.</li></ul>
+<li><b>Comparative Analysis:</b></li>
+<ul><li><b>High Performers</b>: India and USA emerge as the top performers in terms of both net sales and gross margin. They demonstrate strong sales figures and healthy gross margin percentages, indicating efficient operations and profitability.</li>
+<li><b>Low Performers</b>: Sweden stands out with the lowest net sales, COGS, and gross margin among the listed markets. While it maintains a relatively high gross margin percentage, its low net sales impact overall profitability.</li>
+<li><b>Mid-Range Performers</b>: Other markets fall within the mid-range, with varying levels of net sales, COGS, and gross margin percentages. These markets may benefit from strategies to optimize costs, enhance sales, and improve operational efficiency to achieve better profitability</li>.</ul></ol>
+<b>Recommendations:</b>
+<ul><li>Markets with lower net sales, such as Sweden, may explore opportunities to expand their customer base, enhance marketing efforts, or diversify product offerings to stimulate sales growth.</li>
+<li>Markets with relatively high COGS, like India, can focus on cost optimization initiatives, streamlining supply chains, and negotiating better procurement deals to improve profitability.</li>
+<li>Continuous efforts to increase gross margin through pricing strategies, product innovation, and operational efficiency enhancements can benefit all markets, irrespective of their current performance levels.</li>
+<li>By identifying areas of improvement and leveraging strengths, businesses can develop targeted strategies to enhance their financial performance and competitiveness in their respective markets.</li></ul> </div>
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
+**3.** Other reports : 
+[Top & Bottom 5 products quantitywise](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_ 
+[Top 5 countries in  2021 netsales](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+[Top 10 products by % increase](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
