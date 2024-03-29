@@ -110,7 +110,7 @@ Facilitates compliance with financial regulations and reporting standards.
   By leveraging these insights and strategies, Atliq Hardware can effectively negotiate discounts and sales with retailers, driving increased sales volume and market penetration for its products.
 </p>
 
- **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+ **2.** Conduct a comprehensive comparison between _[market performance and sales target](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/Market_perfomance%20and%20sales%20target.pdf)_
 <h3>Key Insights</h3>
 <ol>
   <li><b>Australia</b>: Despite an increase in sales from 2020 to 2021, the actual sales fell short of the target by $2.2 million, representing a deviation of -10.5%. This could be due to various factors such as increased competition, changing consumer preferences, or economic uncertainties.</li>
@@ -140,7 +140,7 @@ Facilitates compliance with financial regulations and reporting standards.
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Months%20%26%20Quarter.pdf)_
 
 <h3>Financial Performance Insights: Fiscal Years, Quarters, and Months</h3>
 <p>Comparing the financial performance of Atliq Hardware over the fiscal years 2019, 2020, and 2021 offers insightful revelations into the company's strategic growth, market adaptation, and the influence of seasonal dynamics, particularly in the Nov-Dec period of Q2 where peak season lies like New Year and Christmas sales, on its operational success.</p>
@@ -171,7 +171,7 @@ Facilitates compliance with financial regulations and reporting standards.
 </ul>
 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20for%20Markets.pdf)_
 <div>
   <h4>Insights</h4> 
 <ol>
@@ -212,9 +212,16 @@ Facilitates compliance with financial regulations and reporting standards.
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 **3.** Other reports : 
-[Top & Bottom 5 products quantitywise](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_ 
-[Top 5 countries in  2021 netsales](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
-[Top 10 products by % increase](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+
+[Top & Bottom 5 products quantitywise](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/Top_5_Bottom_5_product_qty.pdf)_ :Can use it to make informed decisions about inventory management, marketing strategies, product promotions, and stock replenishment. 
+
+[Top 5 countries in  2021 netsales](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/Top_5_Country_2021_netsales.pdf)_ :  Understanding the performance of different markets can help Atliq Hardware allocate resources effectively and identify opportunities for expansion or improvement.
+
+[Top 10 products by % increase](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/top_10_products_%25increase.pdf)_ : Identifying the top 10 products by percentage increase in sales is essential for strategic planning, resource allocation, and maintaining competitiveness in the market.
+
+[AtliQ new product launch performance](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/New_products_AtliQ.pdf)_  : Overall, checking the performance of new products is crucial for optimizing business outcomes, fostering innovation, and maintaining competitiveness in dynamic markets. It enables businesses to adapt and evolve their product offerings to meet changing customer needs and market dynamics effectively.
+
+[Gross Margin% quarterwise(Subzone)](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/GM%25%20by%20Quarters%20(sub_zone).pdf)_ :Analyzing GM% quarter-wise provides businesses with actionable insights into their financial performance, cost dynamics, and profitability trends, enabling them to make informed decisions and drive sustainable growth over time.
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
