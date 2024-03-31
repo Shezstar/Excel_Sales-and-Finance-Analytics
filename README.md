@@ -81,6 +81,10 @@ Facilitates compliance with financial regulations and reporting standards.
 .These metrics evaluate a company's financial performance, profitablity and pricing tactics.</li>
 </ol>
 
+## Data Model :
+![Alt text](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/New%20data%20model%20updated.png)
+
+
 
 ## Sales Report :
 
