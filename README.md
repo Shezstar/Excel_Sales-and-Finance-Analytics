@@ -1,7 +1,6 @@
-# Excel_Sales-and-Finance-Analytics
-<h1>Introductory 
-part</h1>
 
+# Excel_Sales-and-Finance-Analytics
+<h1>Introductory part </h1>
 <div>
   <p>
     Atliq hardware, a fastest growing company who sells hardwares such as PCs, mouse, keyboards, etc., to various customers, who then distribute these items to end consumers. 
@@ -117,17 +116,14 @@ Facilitates compliance with financial regulations and reporting standards.
  **2.** Conduct a comprehensive comparison between _[market performance and sales target](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/Market_perfomance%20and%20sales%20target.pdf)_
 <h3>Key Insights</h3>
 <ol>
-  <li><b>Australia</b>: Despite an increase in sales from 2020 to 2021, the actual sales fell short of the target by $2.2 million, representing a deviation of -10.5%. This could be due to various factors such as increased competition, changing consumer preferences, or economic uncertainties.</li>
+  <li><b>India</b>: While sales in India showed considerable growth over the years, they fell short of the target by $9.6 million, with a deviation of -5.9%. Understanding the specific market challenges or operational issues hindering sales could help in better targeting this lucrative market.</li>
+
+<li><b>United States</b>: Despite strong sales performance, the USA missed its target by $10.2 million, reflecting a deviation of -11.7%. This could be due to intense competition, changing consumer trends, or insufficient marketing efforts in specific regions.</li>
 
 <li><b>Austria</b>: Sales in Austria fell short of the target by $0.3 million, resulting in a negative deviation of -11.7%. Understanding the reasons behind this shortfall, such as market saturation or ineffective marketing strategies, could help in devising corrective measures.</li>
 
-<li><b>Bangladesh</b>: Sales in Bangladesh exceeded the target by $0.7 million, indicating a positive deviation of 10.3%. This suggests effective market penetration strategies or favorable market conditions contributing to the sales growth.</li>
-
 <li><b>Canada</b>: Despite significant sales growth from 2020 to 2021, sales in Canada missed the target by $5.1 million, representing a deviation of -14.5%. Exploring the reasons behind this gap, such as supply chain disruptions or pricing issues, could be beneficial.</li>
 
-<li><b>India</b>: While sales in India showed considerable growth over the years, they fell short of the target by $9.6 million, with a deviation of -5.9%. Understanding the specific market challenges or operational issues hindering sales could help in better targeting this lucrative market.</li>
-
-<li><b>United States</b>: Despite strong sales performance, the USA missed its target by $10.2 million, reflecting a deviation of -11.7%. This could be due to intense competition, changing consumer trends, or insufficient marketing efforts in specific regions.</li>
 </ol>
 <p>Overall,the Grand Total indicates a significant shortfall in sales compared to the target, with a negative deviation of <b>$54.9 million (-9.2%)</b>. This underscores the importance of reassessing market strategies, improving operational efficiency, and adapting to changing market dynamics to achieve sales targets more effectively.</p>
 <div>
@@ -240,3 +236,5 @@ Facilitates compliance with financial regulations and reporting standards.
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+ **Author**: "Shazia Khan"
