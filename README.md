@@ -113,7 +113,7 @@ Facilitates compliance with financial regulations and reporting standards.
   By leveraging these insights and strategies, Atliq Hardware can effectively negotiate discounts and sales with retailers, driving increased sales volume and market penetration for its products.
 </p>
 
- **2.** Conduct a comprehensive comparison between _[market performance and sales target](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/Market_perfomance%20and%20sales%20target.pdf)_
+ **2.** Conduct a comprehensive comparison between _[market performance Vs sales target](https://github.com/Shezstar/Excel_Sales-and-Finance-Analytics/blob/main/Market_perfomance%20and%20sales%20target.pdf)_
 <h3>Key Insights</h3>
 <ol>
   <li><b>India</b>: While sales in India showed considerable growth over the years, they fell short of the target by $9.6 million, with a deviation of -5.9%. Understanding the specific market challenges or operational issues hindering sales could help in better targeting this lucrative market.</li>
