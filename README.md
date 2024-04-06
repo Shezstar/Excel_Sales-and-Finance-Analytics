@@ -237,5 +237,9 @@ Facilitates compliance with financial regulations and reporting standards.
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Chat GPT 3.5 and Google.
+
+## Watch the Presentation
+[Presentation link](https://www.youtube.com/watch?v=rRrMJdxBMLw)
 
  **Author**: "Shazia Khan"
